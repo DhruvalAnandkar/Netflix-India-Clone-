@@ -1,4 +1,4 @@
-# Netflix India Clone 🎬🇮🇳
+# Netflix Clone🎬India
 A responsive web design project replicating the Netflix India user interface, built entirely with HTML and CSS.
 # Live Demo
 https://dhruvalanandkar.github.io/Netflix-India-Clone-/
